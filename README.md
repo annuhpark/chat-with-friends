@@ -32,3 +32,4 @@ Password: 123123 <br />
 
 ![chat_application_gif1](https://user-images.githubusercontent.com/69396309/182212743-a65f3e98-54ba-4f1c-8eed-a82434f75f3c.gif)
 ![chat_application_gif2](https://user-images.githubusercontent.com/69396309/182213445-5bf223ff-2154-4989-b329-fb7912ad5180.gif)
+![chat_application_gif3](https://user-images.githubusercontent.com/69396309/182214100-43291829-850f-43cc-b26e-7030bcc6feb2.gif)
