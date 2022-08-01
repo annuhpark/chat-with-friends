@@ -22,10 +22,11 @@ Password: 123123 <br />
 ## Features
 
 - User can login their account.
-- User can create chat rooms.
-- User can invite others into their chat rooms.
-- User can message in chat rooms. 
-- User can upload pictures as messages in chat rooms. 
+- User can create chatrooms.
+- User can invite others into their chatrooms.
+- User can message in chatrooms. 
+- User can upload pictures as messages in chatrooms. 
+- User can view messages from other users in chatrooms.
 
 ## Preview
 
