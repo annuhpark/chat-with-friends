@@ -7,7 +7,7 @@
 - CSS3
 - JavaScript ES5/ES6
 - Netlify
-- ChatEngine.io
+- ChatEngine.io (set of APIs and UI Kit specific to chat)
 
 ## Live Demo
 
