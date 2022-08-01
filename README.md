@@ -1,5 +1,7 @@
 # Chat With Friends
 
+Chatting application for users that want to create private chatrooms & message members instantly. 
+
 ## Technologies Used
 
 - React.js
