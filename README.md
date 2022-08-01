@@ -30,8 +30,4 @@ Password: 123123 <br />
 
 ## Preview
 
-![solitudal-thoughts-gif](https://user-images.githubusercontent.com/69396309/175664872-417b7b5b-2d20-403e-820f-61c937018c4f.gif)
-
-![solitudal-thoughts-gif2](https://user-images.githubusercontent.com/69396309/175665093-f9920b27-2b4d-4927-a30d-856b9ca8162c.gif)
-
 ## Development
