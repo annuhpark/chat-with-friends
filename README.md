@@ -11,8 +11,8 @@
 
 ## Live Demo
 
-Try the application live [here!](https://chat-with-friends-park.netlify.app/) <br />
-Use below to log into dummy account: <br />
+Try the application live [here!](https://chat-with-friends-park.netlify.app/) <br /> <br />
+Use below to log into dummy account: <br /> 
 ID: demo_user <br />
 Password: 123123 <br />
 
