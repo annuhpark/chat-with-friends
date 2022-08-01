@@ -12,17 +12,18 @@
 ## Live Demo
 
 Try the application live [here!](https://chat-with-friends-park.netlify.app/)
+Use below to log into dummy account: 
+ID: demo_user
+Password: 123123
+
 
 ## Features
 
-- User can create an account.
-- User can sign into their account.
-- User can view 'our story' which talks about the purpose of this app.
-- User can take a quiz that measures the severity of their mental illness.
-- User can get suggestions on how to improve their mental health state depending on their results.
-- User can create a group.
-- User can search for other groups.
-- User can sign out.
+- User can login their account.
+- User can create chat rooms.
+- User can invite others into their chat rooms.
+- User can message in chat rooms. 
+- User can upload pictures as messages in chat rooms. 
 
 ## Preview
 
@@ -31,9 +32,3 @@ Try the application live [here!](https://chat-with-friends-park.netlify.app/)
 ![solitudal-thoughts-gif2](https://user-images.githubusercontent.com/69396309/175665093-f9920b27-2b4d-4927-a30d-856b9ca8162c.gif)
 
 ## Development
-
-### System Requirements
-
-- Node.js 16 or higher
-- NPM 6 or higher
-- Postgres
