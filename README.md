@@ -30,4 +30,6 @@ Password: 123123 <br />
 
 ## Preview
 
+![chat_application_gif1](https://user-images.githubusercontent.com/69396309/182212743-a65f3e98-54ba-4f1c-8eed-a82434f75f3c.gif)
+
 ## Development
